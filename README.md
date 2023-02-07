@@ -27,4 +27,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Terceiro projeto/desafio proposto na trilha Explorer da Rocketseat para familiarizar com conceitos básicos de HTML e CSS
 
-- [Visite o projeto online](https://rafaeldsal.github.io/projeto-02/)
+- [Visite o projeto online](https://rafaeldsal.github.io/desafio-html-stage03/)
